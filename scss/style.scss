@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Teko', sans-serif;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wrapperForm {
+  margin: 5rem auto 2rem;
+}
+
+.search {
+  outline: none;
+
+  &[type=search] {
+    -webkit-appearance: textfield;
+    -webkit-box-sizing: content-box;
+    font-family: inherit;
+    font-size: 1.6rem;
+  }
+
+  &::-webkit-search-decoration,
+  &::-webkit-search-cancel-button {
+    display: none;
+  }
+
+  &[type=search] {
+    border: none;
+    border-bottom: solid 1px #ccc;
+    padding: 9px 10px 2px 20px;
+    width: 25rem;
+
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    transition: all .5s;
+  }
+
+  &[type=search]:focus {
+    width: 40rem;
+    background-color: #fff;
+    border-color: #66CC75;
+  }
+
+  &:-moz-placeholder {
+    color: #999;
+  }
+
+  &::-webkit-input-placeholder {
+    color: #999;
+  }
+}
+
+
+.btn {
+  background: url(https://static.tumblr.com/ftv85bp/MIXmud4tx/search-icon.png) no-repeat center;
+  width: 46px;
+  height: 40px;
+  border: none;
+  padding: 14px;
+  cursor: pointer;
+  border-bottom: solid 1px #ccc;
+  outline: none;
+}
+
+.bottomGreen {
+  border-bottom: 1px solid #66CC75;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  //opacity: 0;
+  transition: 1s;
+}
+
+.card {
+  margin: 0 auto 1.5rem;
+
+  .cardA {
+    display: flex;
+    align-items: center;
+    min-width: 30rem;
+    font-size: 2rem;
+    background-color: #cccccc4d;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+
+    &:hover,
+    &:focus {
+      background-color: #66CC75;
+      outline: none;
+    }
+
+    .avatarImg {
+      border-radius: 50%;
+      min-width: 4rem;
+      max-width: 4rem;
+      margin: 0.7rem 1rem 0.7rem
+    }
+
+    .userName {
+      font-size: 1.6rem;
+      margin: 0 1rem 0;
+    }
+  }
+}
+
+/* Colors */
+$borderColor1: rgba(204, 102, 102, 0.4);
+$borderColor4: rgb(204, 102, 102);
+
+/* Dimensions */
+$borderWidthX: 1px;
+$borderWidthY: 1px;
+
+
+/*** Animations / styles ***/
+
+@keyframes borderLoadingIndicator {
+  0% {
+    border-color: $borderColor1;
+    border-top-color: $borderColor4;
+  }
+  25% {
+    border-color: $borderColor1;
+    border-right-color: $borderColor4;
+  }
+  50% {
+    border-color: $borderColor1;
+    border-bottom-color: $borderColor4;
+  }
+  75% {
+    border-color: $borderColor1;
+    border-left-color: $borderColor4;
+  }
+  100% {
+    border-color: $borderColor1;
+    border: 2px;
+    border-top-color: $borderColor4;
+  }
+}
+
+.loading {
+  animation: borderLoadingIndicator 1000ms linear infinite;
+}
+
+.opacity {
+  opacity: 1;
+}
+
+@media (max-width: 540px) and (orientation: portrait) {
+
+  .wrapperForm {
+    margin: 2rem auto 1.5rem;
+  }
+
+  .search {
+
+    &[type=search] {
+      width: 11rem;
+    }
+
+    &[type=search]:focus {
+      width: 16rem;
+    }
+
+
+  }
+
+  .card {
+    margin: 0 auto 1rem;
+
+    .cardA {
+      min-width: 16rem;
+      .avatarImg {
+        min-width: 3.5rem;
+        max-width: 3.5rem;
+        margin: 0.4rem 0.5rem 0.4rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 320px) and (orientation: portrait) {
+  .search {
+    &[type=search] {
+      width: 10rem;
+    }
+
+    &[type=search]:focus {
+      width: 13rem;
+    }
+  }
+
+  .card {
+    .cardA {
+      min-width: 15rem;
+    }
+  }
+}
