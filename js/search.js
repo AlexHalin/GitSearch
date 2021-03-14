@@ -21,7 +21,7 @@ class List {
         btn.classList.remove("bottomGreen")
         if (!inputSearch.value && this.element.childNodes.length) {
             animation.hide('opacity')
-            setTimeout( () => list.clearList(), 0)
+            setTimeout( () => list.clearList(), 500)
         }
     })
 
