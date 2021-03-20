@@ -15,7 +15,8 @@ body, html {
   margin: 5rem auto 2rem; }
 
 .search {
-  outline: none; }
+  outline: none;
+  border-radius: 0; }
   .search[type=search] {
     -webkit-appearance: textfield;
     -webkit-box-sizing: content-box;

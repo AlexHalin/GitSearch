@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8cc7c2e3-a963-43d2-bbc5-dc372e4aee73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LEARNING\GitSearch" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,6 +61,7 @@
       <workItem from="1615992436064" duration="5000" />
       <workItem from="1616153109622" duration="806000" />
       <workItem from="1616153992808" duration="570000" />
+      <workItem from="1616264768502" duration="1148000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605900152500</created>
@@ -77,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615738048693</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed the position of index html">
+      <created>1616264800915</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616264800915</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,21 +100,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="fix blur click bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix blur click bug" />
+    <MESSAGE value="changed the position of index html" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed the position of index html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="55" width="1209" height="822" key="CommitChangelistDialog2" timestamp="1615738045163">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1392" y="125" width="1209" height="822" key="CommitChangelistDialog2" timestamp="1616264799747">
+      <screen x="-1600" y="80" width="1600" height="860" />
     </state>
+    <state x="-1392" y="125" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616264799747" />
     <state x="249" y="55" width="1209" height="822" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1615738045163" />
     <state x="-1020" y="265" key="FileChooserDialogImpl" timestamp="1615896207749">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
     <state x="-1020" y="265" key="FileChooserDialogImpl/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1615896207749" />
     <state x="696" y="224" key="FileChooserDialogImpl/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1610626565462" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615738055191">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2" timestamp="1616264805195">
+      <screen x="-1600" y="80" width="1600" height="860" />
     </state>
+    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616264805195" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1615738055191" />
   </component>
 </project>

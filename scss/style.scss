@@ -20,6 +20,7 @@ body, html {
 
 .search {
   outline: none;
+  border-radius: 0;
 
   &[type=search] {
     -webkit-appearance: textfield;
@@ -176,8 +177,6 @@ $borderWidthY: 1px;
     &[type=search]:focus {
       width: 16rem;
     }
-
-
   }
 
   .card {
