@@ -34,6 +34,7 @@ body, html {
     transition: all .5s; }
   .search[type=search]:focus {
     width: 40rem;
+    border-radius: 0;
     background-color: #fff;
     border-color: #66CC75; }
   .search:-moz-placeholder {
@@ -43,10 +44,8 @@ body, html {
 
 .btn {
   background: url("../img/search.svg") no-repeat center;
-  width: 46px;
-  height: 25px;
   border: none;
-  padding: 14px;
+  padding: 20px 20px 10px;
   cursor: pointer;
   border-bottom: solid 1px #ccc;
   outline: none; }

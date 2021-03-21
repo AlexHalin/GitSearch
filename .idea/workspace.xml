@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:GitSearch" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8cc7c2e3-a963-43d2-bbc5-dc372e4aee73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,18 +41,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kYjOlxsm8X4SasWx7LYkYaOSac" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tic tac toe" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -62,7 +93,7 @@
       <workItem from="1616153992808" duration="570000" />
       <workItem from="1616264768502" duration="3619000" />
       <workItem from="1616279529035" duration="685000" />
-      <workItem from="1616316345880" duration="412000" />
+      <workItem from="1616316345880" duration="1379000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605900152500</created>
@@ -120,35 +151,54 @@
       <option name="project" value="LOCAL" />
       <updated>1616316369900</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix bug with border radius in mobile">
+      <created>1616316786826</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616316786826</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <MESSAGE value="fix blur click bug" />
     <MESSAGE value="changed the position of index html" />
-    <MESSAGE value="fix bug with border radius in mobile" />
     <MESSAGE value="change search icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="change search icon" />
+    <MESSAGE value="fix bug with border radius in mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bug with border radius in mobile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1252" y="114" width="1209" height="822" key="CommitChangelistDialog2" timestamp="1616316368231">
+    <state x="-1252" y="114" width="1209" height="822" key="CommitChangelistDialog2" timestamp="1616316785826">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
-    <state x="-1252" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616316368231" />
+    <state x="-1252" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616316785826" />
     <state x="249" y="55" width="1209" height="822" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1615738045163" />
-    <state x="-1020" y="265" key="FileChooserDialogImpl" timestamp="1616268309723">
+    <state x="-1020" y="265" key="FileChooserDialogImpl" timestamp="1616321333209">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
-    <state x="-1020" y="265" key="FileChooserDialogImpl/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616268309723" />
+    <state x="-1020" y="265" key="FileChooserDialogImpl/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616321333209" />
     <state x="696" y="224" key="FileChooserDialogImpl/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1610626565462" />
-    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2" timestamp="1616316374010">
+    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2" timestamp="1616316792280">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
-    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616316374010" />
+    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616316792280" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1615738055191" />
   </component>
 </project>
