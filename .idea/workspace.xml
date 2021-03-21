@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8cc7c2e3-a963-43d2-bbc5-dc372e4aee73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tic tac toe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -61,6 +62,7 @@
       <workItem from="1616153109622" duration="806000" />
       <workItem from="1616153992808" duration="570000" />
       <workItem from="1616264768502" duration="3619000" />
+      <workItem from="1616279529035" duration="685000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605900152500</created>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616268158736</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change search icon">
+      <created>1616279596676</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616279596676</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,20 +128,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="change search icon" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1252" y="114" width="1209" height="822" key="CommitChangelistDialog2" timestamp="1616268157479">
+    <state x="-1252" y="114" width="1209" height="822" key="CommitChangelistDialog2" timestamp="1616279595362">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
-    <state x="-1252" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616268157479" />
+    <state x="-1252" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616279595362" />
     <state x="249" y="55" width="1209" height="822" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1615738045163" />
     <state x="-1020" y="265" key="FileChooserDialogImpl" timestamp="1616268309723">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
     <state x="-1020" y="265" key="FileChooserDialogImpl/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616268309723" />
     <state x="696" y="224" key="FileChooserDialogImpl/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1610626565462" />
-    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2" timestamp="1616268165581">
+    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2" timestamp="1616279604906">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
-    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616268165581" />
+    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616279604906" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1615738055191" />
   </component>
 </project>
