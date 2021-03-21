@@ -47,6 +47,7 @@ body, html {
 
   &[type=search]:focus {
     width: 40rem;
+    border-radius: 0;
     background-color: #fff;
     border-color: #66CC75;
   }
