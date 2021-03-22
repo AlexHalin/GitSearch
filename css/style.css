@@ -30,6 +30,7 @@ body, html {
     border: none;
     border-bottom: solid 1px #ccc;
     padding: 9px 10px 2px 20px;
+    border-radius: 0;
     width: 25rem;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
@@ -53,7 +54,8 @@ body, html {
   outline: none; }
 
 .bottomGreen {
-  border-bottom: 1px solid #66CC75; }
+  border-bottom: 1px solid #66CC75;
+  border-radius: 0; }
 
 .list {
   list-style: none;
