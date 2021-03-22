@@ -27,7 +27,7 @@ body, html {
   &[type=search] {
     -webkit-appearance: textfield;
     -webkit-box-sizing: content-box;
-    font-family: inherit;;
+    font-family: inherit;
 
     font-size: 1.6rem}
 
@@ -40,6 +40,7 @@ body, html {
     border: none;
     border-bottom: solid 1px #ccc;
     padding: 9px 10px 2px 20px;
+    border-radius: 0;
     width: 25rem;
 
     -webkit-transition: all .5s;
