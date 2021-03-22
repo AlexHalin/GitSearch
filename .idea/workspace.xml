@@ -25,8 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cc7c2e3-a963-43d2-bbc5-dc372e4aee73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/search.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +93,7 @@
       <workItem from="1616264768502" duration="3619000" />
       <workItem from="1616279529035" duration="685000" />
       <workItem from="1616316345880" duration="2000000" />
-      <workItem from="1616428952574" duration="1759000" />
+      <workItem from="1616428952574" duration="3256000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1605900152500</created>
@@ -177,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616430554719</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix for input on iphone">
+      <created>1616430717973</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616430717973</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,20 +215,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix for input on iphone" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1252" y="114" width="1209" height="822" key="CommitChangelistDialog2" timestamp="1616430188238">
+    <state x="-1252" y="114" width="1209" height="822" key="CommitChangelistDialog2" timestamp="1616430716721">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
-    <state x="-1252" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616430188238" />
+    <state x="-1252" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616430716721" />
     <state x="249" y="55" width="1209" height="822" key="CommitChangelistDialog2/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1615738045163" />
     <state x="-1020" y="265" key="FileChooserDialogImpl" timestamp="1616321333209">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
     <state x="-1020" y="265" key="FileChooserDialogImpl/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616321333209" />
     <state x="696" y="224" key="FileChooserDialogImpl/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1610626565462" />
-    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2" timestamp="1616430193912">
+    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2" timestamp="1616430721910">
       <screen x="-1600" y="80" width="1600" height="860" />
     </state>
-    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616430193912" />
+    <state x="-1140" y="289" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@-1600.80.1600.860" timestamp="1616430721910" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.80.1600.860@0.0.1920.1040" timestamp="1615738055191" />
   </component>
 </project>

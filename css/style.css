@@ -54,8 +54,7 @@ body, html {
   outline: none; }
 
 .bottomGreen {
-  border-bottom: 1px solid #66CC75;
-  border-radius: 0; }
+  border-bottom: 1px solid #66CC75; }
 
 .list {
   list-style: none;
